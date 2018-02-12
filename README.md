@@ -1,8 +1,7 @@
-My journey in learning cryptography
+# My journey to learning cryptography
 
-1. Caesar cipher
-Produces a cipher by shifting characters of plaintext by some key
+1. __Caesar cipher__  
+Produces a cipher by shifting characters of plaintext by some key.
 
-2. Simple substitution
-Substitute plaintext alphabets by using a random permutation of the alphabets as a key
-More: https://www.tutorialspoint.com/cryptography/traditional_ciphers.htm
+2. __Simple substitution__  
+Substitute plaintext alphabets by using a random permutation of the alphabets as a key. This is an example of a [**Monoalphabetic cipher**](https://en.wikipedia.org/wiki/Substitution_cipher).
